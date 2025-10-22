@@ -1,0 +1,14 @@
+balance car\heap_4.o: ..\Middle\FreeRTOS\portable\MemMang\heap_4.c
+balance car\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+balance car\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\heap_4.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/portable.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\heap_4.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/task.h
+balance car\heap_4.o: ../Middle/FreeRTOS/include/list.h

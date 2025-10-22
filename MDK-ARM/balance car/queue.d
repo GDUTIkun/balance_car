@@ -1,0 +1,15 @@
+balance car\queue.o: ..\Middle\FreeRTOS\source\queue.c
+balance car\queue.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+balance car\queue.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+balance car\queue.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\queue.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\queue.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\queue.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\queue.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\queue.o: ../Middle/FreeRTOS/include/portable.h
+balance car\queue.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\queue.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\queue.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\queue.o: ../Middle/FreeRTOS/include/task.h
+balance car\queue.o: ../Middle/FreeRTOS/include/list.h
+balance car\queue.o: ../Middle/FreeRTOS/include/queue.h

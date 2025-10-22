@@ -1,0 +1,15 @@
+balance car\event_groups.o: ..\Middle\FreeRTOS\source\event_groups.c
+balance car\event_groups.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\event_groups.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\event_groups.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/portable.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\event_groups.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/task.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/list.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/timers.h
+balance car\event_groups.o: ../Middle/FreeRTOS/include/event_groups.h

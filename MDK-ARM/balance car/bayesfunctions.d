@@ -1,0 +1,17 @@
+balance car\bayesfunctions.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/BayesFunctions/BayesFunctions.c
+balance car\bayesfunctions.o: D:/Keli5/Pack/ARM/CMSIS-DSP/1.15.0/Source/BayesFunctions/arm_gaussian_naive_bayes_predict_f32.c
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/bayes_functions.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_types.h
+balance car\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+balance car\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\bayesfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+balance car\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+balance car\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\math.h
+balance car\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\float.h
+balance car\bayesfunctions.o: D:\Keli5\ARM\ARMCC\Bin\..\include\limits.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\arm_math_memory.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/none.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/utils.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/statistics_functions.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/basic_math_functions.h
+balance car\bayesfunctions.o: D:\Keli5\Pack\ARM\CMSIS-DSP\1.15.0\Include\dsp/fast_math_functions.h

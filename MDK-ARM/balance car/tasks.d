@@ -1,0 +1,16 @@
+balance car\tasks.o: ..\Middle\FreeRTOS\source\tasks.c
+balance car\tasks.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+balance car\tasks.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\tasks.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\tasks.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/portable.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\tasks.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/task.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/list.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/timers.h
+balance car\tasks.o: ../Middle/FreeRTOS/include/stack_macros.h

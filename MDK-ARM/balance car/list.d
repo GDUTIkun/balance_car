@@ -1,0 +1,12 @@
+balance car\list.o: ..\Middle\FreeRTOS\source\list.c
+balance car\list.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+balance car\list.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\list.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\list.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\list.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\list.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\list.o: ../Middle/FreeRTOS/include/portable.h
+balance car\list.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\list.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\list.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\list.o: ../Middle/FreeRTOS/include/list.h

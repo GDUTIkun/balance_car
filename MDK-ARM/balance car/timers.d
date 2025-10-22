@@ -1,0 +1,15 @@
+balance car\timers.o: ..\Middle\FreeRTOS\source\timers.c
+balance car\timers.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdlib.h
+balance car\timers.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\timers.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\timers.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\timers.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\timers.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\timers.o: ../Middle/FreeRTOS/include/portable.h
+balance car\timers.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\timers.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\timers.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\timers.o: ../Middle/FreeRTOS/include/task.h
+balance car\timers.o: ../Middle/FreeRTOS/include/list.h
+balance car\timers.o: ../Middle/FreeRTOS/include/queue.h
+balance car\timers.o: ../Middle/FreeRTOS/include/timers.h

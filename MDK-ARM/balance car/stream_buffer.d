@@ -1,0 +1,14 @@
+balance car\stream_buffer.o: ..\Middle\FreeRTOS\source\stream_buffer.c
+balance car\stream_buffer.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stdint.h
+balance car\stream_buffer.o: D:\Keli5\ARM\ARMCC\Bin\..\include\string.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/FreeRTOS.h
+balance car\stream_buffer.o: D:\Keli5\ARM\ARMCC\Bin\..\include\stddef.h
+balance car\stream_buffer.o: ../Core/Inc/FreeRTOSConfig.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/projdefs.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/portable.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/deprecated_definitions.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/portable/portmacro.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/mpu_wrappers.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/task.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/list.h
+balance car\stream_buffer.o: ../Middle/FreeRTOS/include/stream_buffer.h
